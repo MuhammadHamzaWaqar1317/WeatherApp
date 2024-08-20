@@ -3,6 +3,6 @@ export const constant = {
   fahrenheitUnit: "imperial",
   celciusUnit: "metric",
   celciusSymbol: "C",
-  morningImgBackground:
+  morningImg:
     "https://nathnaelmesfin.me/Weather-Dashboard/assets/day-landscape.png",
 };
