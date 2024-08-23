@@ -4,5 +4,5 @@ export const constant = {
   celciusUnit: "metric",
   celciusSymbol: "C",
   morningImg:
-    "https://nathnaelmesfin.me/Weather-Dashboard/assets/day-landscape.png",
+    "https://nathnaelmesfin.me/Weather-Dashboard/assets/day-landscape.png ",
 };
